@@ -22,9 +22,6 @@
     vector<int> nums{2,3,4,12,1,0,4,7575,0};
 
     moveZeroes(nums);
-  /*   for (auto i: nums){
-        cout << i << " ";
-    } */
-    
+
 
  }
