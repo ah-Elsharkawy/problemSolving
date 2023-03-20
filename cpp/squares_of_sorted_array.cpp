@@ -24,7 +24,7 @@ vector<int> sortedSquares(vector<int>& nums)
 
     return ans;
 }
-
+  
 
 int main()
 {
